@@ -1,0 +1,3 @@
+files:
+  - source: /bundles/en/*
+    translation: /bundles/%two_letters_code%/%original_file_name%
